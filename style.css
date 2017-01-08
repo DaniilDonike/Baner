@@ -1,0 +1,16 @@
+#baner {
+	width: 80%;
+	height: 700px;
+	margin: 0 auto;
+	background: #888;
+	margin-top: 30px;
+}
+
+#close {
+	float: right;
+	border: none;
+	outline: none;
+	background: #888;
+	font-size: 20px;
+	cursor: pointer;
+}
