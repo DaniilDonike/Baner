@@ -1,9 +1,10 @@
 #baner {
-	width: 80%;
+	width: 80%;/*Шрина*/
 	height: 700px;
 	margin: 0 auto;
 	background: #888;
 	margin-top: 30px;
+	text-align: center;
 }
 
 #close {
@@ -13,4 +14,8 @@
 	background: #888;
 	font-size: 20px;
 	cursor: pointer;
+}
+
+p {
+	font-size: 50px;
 }
